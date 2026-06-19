@@ -84,7 +84,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasathbms&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prasath192006&theme=tokyonight" />
 
 </div>
 
@@ -94,7 +94,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasathbms&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasath192006&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
@@ -104,7 +104,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=prasathbms&theme=tokyonight&hide_border=true&mode=weekly" />
+<img src="https://streak-stats.demolab.com?user=Prasath192006&theme=tokyonight&hide_border=true&mode=weekly" />
 
 </div>
 
@@ -114,7 +114,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasathbms&theme=tokyo-night&bg_color=0d1117&color=38bdae&line=a855f7&point=bf91f3&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasath192006&theme=tokyo-night&bg_color=0d1117&color=38bdae&line=a855f7&point=bf91f3&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -126,10 +126,10 @@ public class Developer {
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| [**🌾 AgriConnect Platform**](https://github.com/prasathbms) | `Spring Boot` `React` `MySQL` | Ongoing digital agriculture platform connecting farmers and buyers directly to improve price transparency and eliminate middlemen — featuring a scalable Spring Boot backend with RESTful APIs for crop listing, order workflows, authentication, and role-based access, plus a responsive React.js frontend for real-time crop availability and seller profiles |
-| [**🎬 Movie Review Success Predictor**](https://github.com/prasathbms) | `Python` `NLP` `TF-IDF` `Linear SVM` | Personal ML project that classifies movie success (Hit/Flop) using the IMDb 50,000-review dataset — applies TF-IDF vectorization for feature extraction and a Linear SVM model achieving over 90% accuracy |
-| [**👥 Employee Management System**](https://github.com/prasathbms) | `MERN Stack` `Node.js` `Express` `MongoDB` `Material-UI` | Full-stack employee and task management system with role-based authentication for managers and employees — 15+ RESTful APIs supporting complete CRUD operations and secure profile image uploads, deployed on Netlify and Render |
-| [**📺 YouTube Video Summarizer**](https://github.com/prasathbms) | `Chrome Extension` `Gemini API` | Built in a 3-day hackathon — a Chrome extension that summarizes YouTube videos using the Gemini API and the youtube-transcript-api, with multi-language support, persistent chat history, and real-time Q&A on video content |
+| [**🌾 AgriConnect Platform**](https://github.com/Prasath192006) | `Spring Boot` `React` `MySQL` | Ongoing digital agriculture platform connecting farmers and buyers directly to improve price transparency and eliminate middlemen — featuring a scalable Spring Boot backend with RESTful APIs for crop listing, order workflows, authentication, and role-based access, plus a responsive React.js frontend for real-time crop availability and seller profiles |
+| [**🎬 Movie Review Success Predictor**](https://github.com/Prasath192006) | `Python` `NLP` `TF-IDF` `Linear SVM` | Personal ML project that classifies movie success (Hit/Flop) using the IMDb 50,000-review dataset — applies TF-IDF vectorization for feature extraction and a Linear SVM model achieving over 90% accuracy |
+| [**👥 Employee Management System**](https://github.com/Prasath192006) | `MERN Stack` `Node.js` `Express` `MongoDB` `Material-UI` | Full-stack employee and task management system with role-based authentication for managers and employees — 15+ RESTful APIs supporting complete CRUD operations and secure profile image uploads, deployed on Netlify and Render |
+| [**📺 YouTube Video Summarizer**](https://github.com/Prasath192006) | `Chrome Extension` `Gemini API` | Built in a 3-day hackathon — a Chrome extension that summarizes YouTube videos using the Gemini API and the youtube-transcript-api, with multi-language support, persistent chat history, and real-time Q&A on video content |
 
 </div>
 
@@ -154,7 +154,7 @@ public class Developer {
 | Degree | Institution | Period | Score |
 |:---|:---|:---:|:---:|
 | 🎓 B.E. Computer Science and Engineering | Karpagam College of Engineering | Present – Expected May 2027 | **8.49 / 10.0 CGPA** |
-
+| 📘 Higher Secondary(Computer Science) | AKV matric Hr. Sec. School | 2022 - 2023 | **95%** |
 </div>
 
 ---
@@ -182,8 +182,8 @@ public class Developer {
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasath-bms/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prasathbms)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasath-bms-153947241)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/prasath_006/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prasath7102@gmail.com)
 
 *"Build with purpose. Code with precision. Ship with confidence."*
