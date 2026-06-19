@@ -114,7 +114,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasath192006&theme=tokyo-night&bg_color=0d1117&color=38bdae&line=a855f7&point=bf91f3&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasath192006&theme=tokyo-night&bg_color=0d1117&color=38bdae&line=a855f7&point=bf91f3&area=true&area_color=38bdae&hide_border=true&height=300&custom_title=Prasath's%20Contribution%20Graph" width="100%"/>
 
 </div>
 
@@ -153,8 +153,8 @@ public class Developer {
 
 | Degree | Institution | Period | Score |
 |:---|:---|:---:|:---:|
-| 🎓 B.E. Computer Science and Engineering | Karpagam College of Engineering,Coimbatore | Present – Expected May 2027 | **8.49 / 10.0 CGPA** |
-| 📘 Higher Secondary(Computer Science) | AKV matric Hr. Sec. School,Salem | 2022 - 2023 | **95%** |
+| 🎓 B.E. Computer Science and Engineering | Karpagam College of Engineering | Present – Expected May 2027 | **8.49 / 10.0 CGPA** |
+
 </div>
 
 ---
@@ -162,7 +162,7 @@ public class Developer {
 ## 🌱 Currently Learning
 
 ```
-🍃 Spring Boot           →  Backend Architecture, REST APIs
+🍃 Spring Boot          →  Backend Architecture, REST APIs
 🌐 Full Stack Dev        →  MERN Stack, Spring Boot, MySQL
 🤖 Machine Learning      →  NLP, Text Classification
 ```
@@ -173,7 +173,7 @@ public class Developer {
 
 ```
 🤝 Team Collaboration     |  🧩 Problem Solving
-⚡ Rapid Prototyping      |  🎯 Attention to Detail
+⚡ Rapid Prototyping       |  🎯 Attention to Detail
 ```
 
 ---
@@ -182,8 +182,8 @@ public class Developer {
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasath-bms-153947241)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/prasath_006/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasath-bms/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasath192006)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prasath7102@gmail.com)
 
 *"Build with purpose. Code with precision. Ship with confidence."*
