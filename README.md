@@ -153,8 +153,8 @@ public class Developer {
 
 | Degree | Institution | Period | Score |
 |:---|:---|:---:|:---:|
-| 🎓 B.E. Computer Science and Engineering | Karpagam College of Engineering | Present – Expected May 2027 | **8.49 / 10.0 CGPA** |
-| 📘 Higher Secondary(Computer Science) | AKV matric Hr. Sec. School | 2022 - 2023 | **95%** |
+| 🎓 B.E. Computer Science and Engineering | Karpagam College of Engineering,Coimbatore | Present – Expected May 2027 | **8.49 / 10.0 CGPA** |
+| 📘 Higher Secondary(Computer Science) | AKV matric Hr. Sec. School,Salem | 2022 - 2023 | **95%** |
 </div>
 
 ---
@@ -162,7 +162,7 @@ public class Developer {
 ## 🌱 Currently Learning
 
 ```
-🍃 Spring Boot          →  Backend Architecture, REST APIs
+🍃 Spring Boot           →  Backend Architecture, REST APIs
 🌐 Full Stack Dev        →  MERN Stack, Spring Boot, MySQL
 🤖 Machine Learning      →  NLP, Text Classification
 ```
@@ -173,7 +173,7 @@ public class Developer {
 
 ```
 🤝 Team Collaboration     |  🧩 Problem Solving
-⚡ Rapid Prototyping       |  🎯 Attention to Detail
+⚡ Rapid Prototyping      |  🎯 Attention to Detail
 ```
 
 ---
